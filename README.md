@@ -10,7 +10,9 @@
 
 ## 📦 Installation
 
-``` pip install -r requirements.txt ```
+```
+pip install -r requirements.txt
+```
 
 Rename the `.env.example` to `.env` and paste your Discord Bot Token.
 
@@ -23,9 +25,6 @@ That's it! You are ready to go.Just press the `F5` button and type `/about` in y
 - [x] Test command `/about` to check if the bot is working or not.
 - [ ] Its just a template. You expected more. Huh?
 
-## 📝 License
-
-You are free to use this template. But you can't reupload it anywhere. You can modify it as you want. But you can't claim it as yours. You can't sell it. You can't use it for commercial purposes. You can't use it for any illegal purposes. You can't use it for any harm.
 
 ## 📞 Contact
 
@@ -41,3 +40,10 @@ You are free to use this template. But you can't reupload it anywhere. You can m
 <a href="https://discord.gg/invite/rraBbMQraQ">
      <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="398" height="100" />
 </a>
+
+<hr>
+
+## 📝 License
+
+You are free to use this template. But you can't reupload it anywhere. You can modify it as you want. But you can't claim it as yours. You can't sell it. You can't use it for commercial purposes. You can't use it for any illegal purposes. You can't use it for any harm.
+
