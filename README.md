@@ -10,7 +10,11 @@
 
 ## 📦 Installation
 
-```
+Clone the repository using `Use this template` button.
+
+Paste this command in your terminal to install the requirements >
+
+```python
 pip install -r requirements.txt
 ```
 
